@@ -72,7 +72,7 @@ export const rewardMilestones: RewardMilestone[] = [
   },
   {
     wager: "$1,000,000",
-    reward: "$500 + Gift",
+    reward: "$500",
     status: "locked",
     imageSrc: "/assets/art/milestone_7.png",
   },
