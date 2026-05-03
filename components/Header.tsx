@@ -9,6 +9,7 @@ const NAV_ITEMS = [
   { label: "FAQ", href: "#faq" },
 ];
 
+const DISCORD_URL = "https://discord.gg/c7EFDEp36R";
 const SOCIALS_URL = "https://trivolutionslots.com";
 
 function IconButton({
@@ -57,12 +58,12 @@ export function Header({ kickUrl }: HeaderProps) {
           </nav>
 
           <div className="flex items-center gap-2">
-            <IconButton href={kickUrl} label="Kick">
+            <IconButton href={kickUrl} label="Goated">
               <span className="font-display text-xl uppercase text-[var(--color-accent)]">
-                K
+                G
               </span>
             </IconButton>
-            <IconButton href={SOCIALS_URL} label="Discord">
+            <IconButton href={DISCORD_URL} label="Discord">
               <svg
                 aria-hidden="true"
                 viewBox="0 0 24 24"

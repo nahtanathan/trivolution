@@ -2,7 +2,7 @@ import Image from "next/image";
 
 import { rewardMilestones } from "@/lib/rewards";
 
-const DISCORD_CLAIM_URL = "https://discord.gg/vXDJSDGFnA";
+const DISCORD_CLAIM_URL = "https://discord.gg/c7EFDEp36R";
 
 export function WagerMilestones() {
   return (

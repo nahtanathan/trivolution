@@ -16,7 +16,7 @@ export function BottomCTA({ kickUrl }: BottomCTAProps) {
               Looking for better rewards?
             </h2>
             <p className="mt-3 text-base leading-7 text-[var(--color-text-muted)]">
-              Join Trivolution and start unlocking exclusive bonuses, cash
+              Sign-up on Goated and start unlocking exclusive bonuses, cash
               rewards, and VIP perks.
             </p>
           </div>
@@ -26,7 +26,7 @@ export function BottomCTA({ kickUrl }: BottomCTAProps) {
             rel="noreferrer"
             className="inline-flex min-h-12 items-center justify-center rounded-xl border border-[var(--color-accent)] bg-[var(--color-accent)] px-6 text-sm font-semibold uppercase tracking-[0.24em] text-[#091005] transition hover:brightness-110"
           >
-            Join Trivolution
+            Sign-up on Goated
           </a>
         </div>
       </div>

@@ -31,7 +31,7 @@ export function Hero({ title, startsAt, endsAt, kickUrl }: HeroProps) {
                 rel="noreferrer"
                 className="inline-flex min-h-12 items-center justify-center rounded-xl border border-[var(--color-accent)] bg-[var(--color-accent)] px-6 text-sm font-semibold uppercase tracking-[0.24em] text-[#091005] transition hover:brightness-110"
               >
-                Join on Kick
+                Sign-up on Goated
               </a>
               <a
                 href="#leaderboard"
