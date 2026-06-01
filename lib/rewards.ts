@@ -11,15 +11,14 @@ export type RewardMilestone = {
 export type PodiumPrizes = [string, string, string];
 
 export const leaderboardPrizesByRank: Partial<Record<number, string>> = {
-  1: "$125",
-  2: "$60",
-  3: "$40",
-  4: "$25",
-  5: "$10",
-  6: "$10",
+  1: "$200",
+  2: "$125",
+  3: "$75",
+  4: "$40",
+  5: "$25",
+  6: "$15",
   7: "$10",
   8: "$10",
-  9: "$10",
 };
 
 export const podiumPrizes: PodiumPrizes = [
